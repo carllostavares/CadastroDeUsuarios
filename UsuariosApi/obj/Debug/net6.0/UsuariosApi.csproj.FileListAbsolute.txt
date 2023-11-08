@@ -1,0 +1,7 @@
+C:\Users\carlo\OneDrive\Área de Trabalho\Atividade\UsuariosApi\UsuariosApi\obj\Debug\net6.0\UsuariosApi.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\Atividade\UsuariosApi\UsuariosApi\obj\Debug\net6.0\UsuariosApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\OneDrive\Área de Trabalho\Atividade\UsuariosApi\UsuariosApi\obj\Debug\net6.0\UsuariosApi.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\Atividade\UsuariosApi\UsuariosApi\obj\Debug\net6.0\UsuariosApi.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Área de Trabalho\Atividade\UsuariosApi\UsuariosApi\obj\Debug\net6.0\UsuariosApi.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\Atividade\UsuariosApi\UsuariosApi\obj\Debug\net6.0\UsuariosApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\carlo\OneDrive\Área de Trabalho\Atividade\UsuariosApi\UsuariosApi\obj\Debug\net6.0\UsuariosApi.MvcApplicationPartsAssemblyInfo.cache
